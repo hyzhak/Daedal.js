@@ -1,3 +1,3 @@
-# maze.js [![Build Status](https://secure.travis-ci.org/Hyzhak/maze.js.png?branch=master)][travis]
+# Daedal.js [![Build Status](https://secure.travis-ci.org/Hyzhak/daedal.js.png?branch=master)][travis]
 
 Maze (Labyrinth) Generator.
