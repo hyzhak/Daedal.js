@@ -1,0 +1,25 @@
+{
+  "name": "daedal.js",
+  "title": "Daedal.js",
+  "description": "Maze (labyrinth) generator",
+  "version": "0.0.1",
+  "homepage": "https://hyzhak.github.com/Daedal.js",
+  "author": {
+    "name": "Eugene Krenevenets",
+    "email": "hyzhak@ya.ru",
+    "url": "http://hyzhak.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Hyzhak/Daedal.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hyzhak/Daedal.js/issues"
+  },
+  "licenses": [
+    {
+      "type": "Simplified BSD License",
+      "url": "https://github.com/Hyzhak/Daedal.js/blob/master/LICENSE.md"
+    }
+  ]
+}
