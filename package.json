@@ -28,6 +28,6 @@
     "generator"
   ],
   "scripts": {
-      "test": "make test-version"
+      "test": "phantomjs test/libs/phantomjs/run-jasmine.js specRunner.html"
   }
 }
