@@ -3,3 +3,13 @@
 ![Minotaurus from Wikipedia](http://upload.wikimedia.org/wikipedia/commons/e/e5/Minotaurus.gif)
 
 Maze (Labyrinth) Generator.
+
+## DONE
+
+## TODO:
+
+* use unittests (jasmine + phantom.js);
+* build simple 2d maze;
+* create 2d example;
+* share project site;
+* build simple 3d maze;

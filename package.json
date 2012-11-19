@@ -21,5 +21,13 @@
       "type": "Simplified BSD License",
       "url": "https://github.com/Hyzhak/Daedal.js/blob/master/LICENSE.md"
     }
-  ]
+  ],
+  "keywords": [
+    "maze",
+    "labyrinth",
+    "generator"
+  ],
+  "scripts": {
+      "test": "make test-version"
+  }
 }
