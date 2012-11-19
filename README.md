@@ -4,12 +4,12 @@
 
 Maze (Labyrinth) Generator.
 
-## DONE
-
-## TODO:
-
+## Roadmap v 0.0.1
+### DONE
 * use unittests (jasmine + phantom.js);
+
+### TODO:
+
 * build simple 2d maze;
 * create 2d example;
-* share project site;
-* build simple 3d maze;
+* share project;
