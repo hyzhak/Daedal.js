@@ -8,8 +8,13 @@ requirejs.config({
     baseUrl: './src',
     paths: {
         libs : './libs',
-        libs : '../../src',
+        daedal : '../../src/daedal',
         app : './app'
+    },
+    shim: {
+        'libs/three' : {
+            exports: 'THREE'
+        }
     }
 });
 
