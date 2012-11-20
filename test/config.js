@@ -16,10 +16,7 @@ requirejs([
 
     //specs
     'spec/build2DMazeSpec'
-],
-/*remove bacause of A1*/
-/*function(jasmine){*/
-function(){
+],function(){
     var jasmineEnv = jasmine.getEnv();
     jasmine.VERBOSE = true;
     jasmineEnv.updateInterval = 1000;
