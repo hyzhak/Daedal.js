@@ -14,6 +14,10 @@ requirejs.config({
     shim: {
         'libs/three' : {
             exports: 'THREE'
+        },
+        'libs/TrackballControls' : {
+            deps : ['libs/three'],
+            exports : 'TrackballControls'
         }
     }
 });
