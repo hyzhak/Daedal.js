@@ -59,7 +59,7 @@ function (THREE, TrackballControls) {
         camera = new THREE.PerspectiveCamera( 75, getAspect(), 1, 10000 );
         camera.position.z = 1000;
 
-        controls = new THREE.TrackballControls( camera );
+        controls = new THREE.TrackballControls( camera, placeholder );
         controls.rotateSpeed = 0.2;
         controls.zoomSpeed = 1.2;
         controls.panSpeed = 0.8;
